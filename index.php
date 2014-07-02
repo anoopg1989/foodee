@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 Old Index
+=======
+New Idea
+>>>>>>> newIdea
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
